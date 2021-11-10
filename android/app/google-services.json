@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "338540602335",
+    "firebase_url": "https://petani-jamur-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "petani-jamur",
+    "storage_bucket": "petani-jamur.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:338540602335:android:9bf300b18f7016322c1a6a",
+        "android_client_info": {
+          "package_name": "com.example.aplikasi_penyiram_jamur"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "338540602335-bpo450dssh6p4i2ladidc3mrq56mvv7b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAt8wl9p_Nd54mJPjbWv4AxhX1ix0v7Ogs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "338540602335-bpo450dssh6p4i2ladidc3mrq56mvv7b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

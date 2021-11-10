@@ -21,11 +21,17 @@ environment:
   sdk: ">=2.12.0 <3.0.0"
 
 dependencies:
+  cloud_firestore: ^2.5.4
   cupertino_icons: ^1.0.2
+  firebase_core: ^1.8.0
+  firebase_database: ^8.0.1
   flutter:
     sdk: flutter
   hexcolor: ^2.0.5
+  intl: ^0.17.0
   number_inc_dec: ^0.8.0
+  percent_indicator: ^3.4.0
+  scroll_bottom_navigation_bar: ^4.0.0
 
 dev_dependencies:
   flutter_test:
